@@ -1,0 +1,13 @@
+.book {
+  float: left;
+  width: 18%;
+  min-height: 624px;
+  border: 1px solid #ccc;
+  margin: 10px;
+  padding: 10px;
+}
+
+.book img {
+  width: 100%;
+  max-width: 100%;
+}
